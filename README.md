@@ -1,34 +1,38 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Abd+Samed+%F0%9F%91%8B;Web+Developer+%7C+IT+Enthusiast;From+Nouakchott%2C+Mauritania" />
-
-### 🚀 22 y/o | Developer | Creator | Barista
-
-> Building digital solutions with passion. From code to coffee.
-
----
-
-#### 👨‍💻 About Me
-- 🔭 Currently focused on **Web Development Projects**
-- 🌱 Formation: Développement Web & Informatique (Brevet, Niveau Bac)
-- ☕ Barista Pro: Cappuccino, Espresso, Latte Art, Desserts
-- 🌍 Trilingual: Arabic | French | English
-- 📍 Nouakchott, Mauritania
-
-#### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=abdousamed39-commits&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdousamed39-commits&layout=compact&theme=tokyonight&hide_border=true)
-
-#### 📫 Contact Me
-- 📞 **+222 41176023**
-- 💼 Open to work - Web Dev & IT Support
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdousamed39-commits&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VERA COSMIQUE - Aloe Vera</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:'Poppins',sans-serif;background:#f8fff5;color:#2e4d27;text-align:center}
+.header{padding:60px 20px;background:linear-gradient(135deg,#e8f5e9,#c8e6c9)}
+.header h1{font-size:50px;margin:0;font-weight:800}
+.header h2{font-size:20px;color:#4a7c3f}
+.badge{display:inline-block;background:#2e4d27;color:#fff;padding:8px 20px;border-radius:30px;margin:15px 0;font-weight:700}
+.sizes{margin:30px auto;max-width:500px;background:#fff;padding:25px;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,0.08)}
+.size-box{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px dashed #c8e6c9;font-weight:700}
+.btn-wa{display:inline-block;margin-top:25px;background:#25D366;color:#fff;padding:16px 35px;border-radius:50px;text-decoration:none;font-weight:800;font-size:18px}
+.btn-insta{display:inline-block;margin-top:15px;background:#fff;border:2px solid #2e4d27;color:#2e4d27;padding:12px 30px;border-radius:50px;text-decoration:none;font-weight:700}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>VERA COSMIQUE</h1>
+<h2>ALOE VERA SERUM CHEVEUX - HUILE NATURELLE</h2>
+<div class="badge">Nourish & Repair • 100% Aloe Vera</div>
+<p>📲 WhatsApp: <b>+222 41 17 60 23</b> | 📷 Instagram: <b>vera cosmi</b></p>
+</div>
+<div class="sizes">
+<h3>🌿 Nos Tailles</h3>
+<div class="size-box"><span>100ml</span><span>3.38 FL OZ</span></div>
+<div class="size-box"><span>250ml</span><span>8.45 FL OZ</span></div>
+<div class="size-box"><span>500ml</span><span>Grand Format</span></div>
+<a class="btn-wa" href="https://wa.me/22241176023">💬 Commander sur WhatsApp</a><br>
+<a class="btn-insta" href="#">📷 Voir sur Instagram</a>
+</div>
+<p style="padding:20px;color:#888">© 2026 VERA COSMIQUE - Nouakchott</p>
+<a href="https://wa.me/22241176023" style="position:fixed;bottom:20px;right:20px;background:#25D366;color:#fff;padding:15px 25px;border-radius:50px;text-decoration:none;font-weight:800;z-index:9999;">💬 +222 41 17 60 23</a>
+</body>
+</html>
